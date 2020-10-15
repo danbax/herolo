@@ -54,7 +54,7 @@ $mysqlQuestions = ["q1","q2","q3","q4","q5","q6"];
 <ol>
     <?php foreach($mysqlQuestions as $mysqlQuestion) : ?>
         <li>
-            <a href="mysql/mysql_<?=$mysqlQuestion?>.php"><?=$mysqlQuestion?></a> (<a class="show-answer-mysql" data-id="<?=$mysqlQuestion?>">Show answer</a>)
+            <a href="mysql/mysql_<?=$mysqlQuestion?>.sql"><?=$mysqlQuestion?></a> (<a class="show-answer-mysql" data-id="<?=$mysqlQuestion?>">Show answer</a>)
             <p class="code" id="<?=$mysqlQuestion?>-answer-mysql">
                 <?php
                 echo file_get_contents('mysql/mysql_'.$mysqlQuestion.'.sql');
