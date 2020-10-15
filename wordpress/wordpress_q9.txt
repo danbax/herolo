@@ -1,0 +1,2 @@
+The wp_enqueue_script function should be used to tell WordPress to place the script
+reference into the <head> element or before </body>

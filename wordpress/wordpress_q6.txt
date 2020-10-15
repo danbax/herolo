@@ -1,0 +1,4 @@
+You can only use predefined WordPress actions.
+The function add_action() is used to hook a function to an action.
+Actions with lower priorities are executed earlier than those with higher priorities.
+

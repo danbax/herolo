@@ -1,0 +1,5 @@
+d. If the requested file not found, it will attemp to locate header.php
+
+I'm not sure if "C." this is your spelling mistake, the function will look for the file "header-home.php" and not "home-header.php"
+
+c. It loads a file name home-header.php

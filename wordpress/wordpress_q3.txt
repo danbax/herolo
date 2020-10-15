@@ -1,0 +1,3 @@
+c. $query = new WP_Query( array( ‘p’ => 7 ) );
+e. $query = new WP_Query( array( ‘tax_query’ => array(array( ‘taxonomy’ => ‘books’,
+terms’ => ‘drama’, ‘field’ => ‘slug’ ) ) ) );

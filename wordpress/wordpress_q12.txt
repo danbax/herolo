@@ -1,0 +1,1 @@
+The permalink is the full URL of any page on the site (permanent link).

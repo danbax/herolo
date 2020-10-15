@@ -1,0 +1,1 @@
+changing the value of the flag WP_DEBUG to TRUE in the wp-config.php file.

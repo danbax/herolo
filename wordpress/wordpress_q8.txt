@@ -1,0 +1,3 @@
+Inside the file wp-content/plugins/testdome.php.
+Inside the comment section at the top of the plugin’s main php file.
+

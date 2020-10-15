@@ -1,0 +1,1 @@
+update wp_options set home='http://url'
